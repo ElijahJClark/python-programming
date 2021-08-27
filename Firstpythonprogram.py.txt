@@ -1,0 +1,12 @@
+"""
+ programmer: Elijah Clark
+ program : program to print customar "Hello World"
+ Date : 8/27/21 
+ Last changed : 8/27/21
+ Python version : 3
+"""
+
+
+print("Hello world")
+
+
