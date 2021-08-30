@@ -1,0 +1,10 @@
+inputOne = 2
+inputTwo = 5
+result = (inputOne+inputTwo)
+print("The sum of the given numbers is:",result)
+result = (inputOne-inputTwo)
+print("The difference of the given numbers is:",result)
+result = (inputOne*inputTwo)
+print("The multiplecation of the given numbers is:",result)
+result = (inputOne/inputTwo)
+print("The division of the given numbers is:",result)
